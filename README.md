@@ -12,5 +12,16 @@
      Getting notification of payment arrive.
      Real time histry of coin.
      specially Bitcoin , Eth, LiteCoin, bitcoinCash.
+# Browserify
+     For using node js module we have need to browserify first to run on browser. Without browserify 
+     browser can't define the require library of node.js. so we have need to import any module/file to another module 
+     write a code such like this.
+     
+                              browserify app.js -o pichart.js
+           
+           
+    this means import pichart module to app.js module
+                    
+                
      
      
