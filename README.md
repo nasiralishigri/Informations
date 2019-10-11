@@ -26,3 +26,17 @@
      
   # Swagger 
         The Best APIs are Built with Swagger Tools
+        
+ # Crypto Price and Exchange of Price 
+    Get Crypto price and convert Crypto to each other as well in other currencies through npm Crypto-Price
+    
+    
+             npm i crypto-price         // Install Crypto-price through npm
+                                                          //Get Crypto Price//
+             let price = require('crypto-price')
+               price.getCryptoPrice(base, crypto).then(obj => { // Base for ex - USD, Crypto for ex - ETH 
+                   console.log(obj.price)
+               }).catch(err => {
+                   console.log(err)
+               })
+ 
