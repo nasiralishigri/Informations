@@ -44,5 +44,10 @@ this means import pichart module to app.js module
    You can create a wallet easily and performed different funtions through nkn-wallet-js npm.You can did through link below.
       
           https://github.com/nknorg/nkn-wallet-js
+          
+ #  Dapp Deployment Links
+   Tutorial for deploy and connect dapp easily.
+   
+     https://developer.kyber.network/docs/WalletsGuide/
   
  
