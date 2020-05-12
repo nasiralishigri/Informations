@@ -49,5 +49,7 @@ this means import pichart module to app.js module
    Tutorial for deploy and connect dapp easily.
    
      https://developer.kyber.network/docs/WalletsGuide/
+# NPM Registry Issue Set
+npm config set registry http://registry.npmjs.org
   
  
